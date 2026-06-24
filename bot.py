@@ -25,7 +25,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Mess
 # КОНФИГУРАЦИЯ — ЗАМЕНИТЕ НА СВОИ ЗНАЧЕНИЯ
 # ═══════════════════════════════════════════════════════════
 BOT_TOKEN = "8840512956:AAEkwdKYMSl56kryZ-JgPXYWrBjvJ5EPoAU"
-WEBAPP_URL = "https://acta11d-dpw6mmnywj8k.edgeone.dev"  # например: https://your-app.vercel.app
+WEBAPP_URL = "acta101-c0dsno1ab-ivanovk0440-1326s-projects.vercel.app"  # например: https://your-app.vercel.app
 
 # Логирование
 logging.basicConfig(
